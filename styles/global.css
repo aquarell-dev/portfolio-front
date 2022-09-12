@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+
+  font-family: 'Poppins', sans-serif;
+  color: white;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
